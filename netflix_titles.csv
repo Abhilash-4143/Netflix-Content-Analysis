@@ -1,0 +1,101 @@
+show_id,type,genre,release_year,country,duration_min
+1,TV Show,Comedy,2022,UK,107
+2,Movie,Action,2021,India,131
+3,TV Show,Documentary,2021,Canada,173
+4,TV Show,Comedy,2017,Australia,118
+5,TV Show,Romance,2017,USA,146
+6,Movie,Comedy,2016,Australia,152
+7,Movie,Drama,2015,India,141
+8,TV Show,Drama,2021,Australia,154
+9,Movie,Documentary,2021,USA,153
+10,Movie,Action,2016,India,175
+11,Movie,Documentary,2021,Australia,98
+12,Movie,Documentary,2022,Canada,158
+13,Movie,Documentary,2015,India,77
+14,Movie,Documentary,2023,India,118
+15,Movie,Romance,2021,Canada,165
+16,Movie,Romance,2017,UK,162
+17,Movie,Comedy,2022,USA,76
+18,Movie,Drama,2021,UK,73
+19,TV Show,Documentary,2022,Australia,90
+20,TV Show,Comedy,2020,Canada,83
+21,Movie,Drama,2023,UK,158
+22,TV Show,Action,2019,India,167
+23,TV Show,Romance,2017,Australia,119
+24,Movie,Drama,2017,Australia,104
+25,Movie,Action,2015,UK,157
+26,Movie,Drama,2022,UK,62
+27,TV Show,Romance,2016,Canada,96
+28,TV Show,Romance,2017,USA,102
+29,Movie,Comedy,2022,UK,99
+30,Movie,Documentary,2022,UK,149
+31,Movie,Drama,2018,India,114
+32,TV Show,Drama,2018,Australia,146
+33,TV Show,Action,2019,USA,167
+34,TV Show,Romance,2020,India,98
+35,TV Show,Drama,2019,Canada,74
+36,Movie,Romance,2021,Canada,179
+37,Movie,Drama,2016,UK,172
+38,Movie,Comedy,2021,UK,63
+39,Movie,Documentary,2021,Canada,152
+40,TV Show,Drama,2015,UK,145
+41,TV Show,Romance,2021,USA,84
+42,Movie,Comedy,2019,UK,72
+43,Movie,Drama,2017,Australia,141
+44,TV Show,Action,2017,UK,92
+45,Movie,Documentary,2018,India,75
+46,TV Show,Drama,2016,USA,168
+47,Movie,Comedy,2016,India,101
+48,Movie,Action,2015,India,167
+49,Movie,Comedy,2019,Australia,125
+50,Movie,Comedy,2018,USA,114
+51,Movie,Action,2016,USA,158
+52,Movie,Comedy,2017,USA,101
+53,Movie,Action,2021,USA,93
+54,TV Show,Drama,2021,USA,89
+55,TV Show,Action,2018,Australia,178
+56,TV Show,Action,2019,UK,72
+57,TV Show,Documentary,2019,India,72
+58,TV Show,Action,2020,USA,77
+59,Movie,Action,2023,UK,91
+60,Movie,Drama,2016,UK,155
+61,TV Show,Documentary,2019,India,158
+62,Movie,Romance,2017,Australia,98
+63,TV Show,Drama,2018,Canada,105
+64,TV Show,Drama,2020,Canada,175
+65,Movie,Romance,2022,UK,88
+66,Movie,Action,2015,India,121
+67,Movie,Comedy,2022,Canada,172
+68,TV Show,Documentary,2021,UK,152
+69,Movie,Comedy,2015,Australia,121
+70,TV Show,Romance,2016,Canada,176
+71,TV Show,Drama,2017,UK,167
+72,TV Show,Drama,2015,UK,116
+73,Movie,Documentary,2023,USA,75
+74,Movie,Drama,2022,Australia,115
+75,TV Show,Drama,2016,USA,167
+76,Movie,Documentary,2023,India,170
+77,Movie,Documentary,2021,USA,69
+78,Movie,Romance,2023,USA,89
+79,TV Show,Drama,2020,Canada,84
+80,TV Show,Drama,2020,UK,162
+81,Movie,Romance,2018,Australia,143
+82,TV Show,Action,2016,USA,64
+83,Movie,Action,2021,Australia,124
+84,Movie,Action,2019,USA,153
+85,Movie,Romance,2020,India,108
+86,Movie,Drama,2016,USA,62
+87,TV Show,Romance,2019,Canada,104
+88,TV Show,Romance,2018,UK,73
+89,TV Show,Action,2023,India,179
+90,Movie,Comedy,2020,USA,89
+91,Movie,Drama,2016,Australia,173
+92,Movie,Action,2015,India,127
+93,TV Show,Comedy,2019,India,77
+94,Movie,Comedy,2023,USA,121
+95,TV Show,Documentary,2020,India,96
+96,TV Show,Drama,2021,Australia,84
+97,TV Show,Comedy,2019,India,107
+98,TV Show,Action,2020,Australia,124
+99,TV Show,Documentary,2019,USA,112
+100,TV Show,Drama,2023,UK,169
